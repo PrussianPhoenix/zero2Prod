@@ -24,7 +24,7 @@ name = "zero2prod"
 rustflags = ["-C", "link-arg=-fuse-ld=lld"]
 
 [dependencies]
-
+config = "0.13"
 actix-web = "4"
 tokio = { version = "1", features = ["macros", "rt-multi-thread"] }
 
