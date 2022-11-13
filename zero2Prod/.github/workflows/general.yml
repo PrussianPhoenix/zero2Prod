@@ -1,5 +1,5 @@
 name: Rust
-
+#dummy
 on:
   # NB: this differs from the book's project!
   # These settings allow us to run this specific CI pipeline for PRs against
